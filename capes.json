@@ -1,0 +1,26 @@
+{
+    "players": [
+        {
+            "username": "player1",
+            "capes": [
+                {
+                    "name": "Cape 1",
+                    "url": "https://example.com/capes/cape1.png"
+                },
+                {
+                    "name": "Cape 2",
+                    "url": "https://example.com/capes/cape2.png"
+                }
+            ]
+        },
+        {
+            "username": "player2",
+            "capes": [
+                {
+                    "name": "Cape A",
+                    "url": "https://example.com/capes/capeA.png"
+                }
+            ]
+        }
+    ]
+}
